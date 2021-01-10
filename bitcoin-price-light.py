@@ -33,7 +33,7 @@ while True:
             orange.off()
             green.off()
 
-        if (newPrice > 24000):
+        if (newPrice > 35000):
             green.on()
 
         oldPrice = newPrice
